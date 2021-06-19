@@ -1,9 +1,3 @@
-<style>
-body {
-background-color: #D21F3C
-}
-</style>
-
 # My Portfolio Website
 
 
@@ -11,7 +5,7 @@ background-color: #D21F3C
 <br />
 <p align="center">
   <a href="http://www.witcherybot.xyz/">
-    <img src="witcheryWonders PFP.png" alt="Logo" width="80" height="80">
+    <img src="witchie-thumbnail.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Portfolio</h3>
@@ -54,6 +48,8 @@ Website: [WitcheryBOT](http://www.witcherybot.xyz/)
 Discord: `{~wi T chie~}#0001`
 
 
+
+# ------
 
 <!--Website Status -->
 Website Status;
