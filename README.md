@@ -25,8 +25,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**Witchery:**
-View my creations from Bots, Coding projects, Photography & Art. Get to know my work better and view Social Medias."
+**Portfolio:**
+View my creations from Bots, Coding projects, Photography & Art. Get to know my work better and view Social Medias.
 
 
 
