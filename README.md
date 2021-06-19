@@ -4,8 +4,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="http://www.witcherybot.xyz/">
-    <img src="witchie-thumbnail.png" alt="Logo" width="80" height="80">
+    <a href="http://www.witchie-me.xyz/">
+    <img src="witchie-thumbnail.png" alt="Logo" width="300" height="100">
   </a>
 
   <h3 align="center">Portfolio</h3>
