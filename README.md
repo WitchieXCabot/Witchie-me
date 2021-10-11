@@ -16,7 +16,7 @@
     <a href="http://www.witchie-me.xyz/"><strong> Webite »</strong></a>
     <br />
     <br />
-    <a href="http://www.witcherybot.xyz/">Witchery Bot</a>    
+    <a href="https://cabot-bot.xyz/">Cabot Bot</a>    
   </p>
 </p>
 
@@ -26,7 +26,7 @@
 ## About The Project
 
 **Portfolio:**
-View my creations from Bots, Coding projects, Photography & Art. Get to know my work better and view Social Medias.
+View my creations from Bots, Coding projects, exlpore my work and view projects im working on and view Social Medias.
 
 
 
@@ -41,11 +41,11 @@ View my creations from Bots, Coding projects, Photography & Art. Get to know my 
 <!-- CONTACT -->
 ## Contact
 
-Witchery Wonders - [Email](witcherywonders.contact@gmail.com)
+Witchie - [Email](devwitchie@cabot-bot.xyz)
 
-Website: [WitcheryBOT](http://www.witcherybot.xyz/)
+Website: [Cabot](https://cabot-bot.xyz/)
 
-Discord: `{~wi T chie~}#0001`
+Discord: `Witchie#0999`
 
 
 
